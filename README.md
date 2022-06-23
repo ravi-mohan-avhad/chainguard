@@ -5,7 +5,11 @@ The world of **financial services is continuously evolving**, and now more than 
 According to Gartner, **blockchain applications could generate up to $3.1 trillion in new company value by 2030**, with half of that value coming from **operational efficiency applications**. On the other side, the **blockchain is a source of concern**. If you're a tiny business that uses smart contracts, you never know who will call your code next. It could be a hacker seeking to exploit a flaw in your implementation, or it could be a little sketchy figure working for an unlawful organization or organized crime ring. You have no idea who you're dealing with until the code starts running, and to make matters worse, once the code starts running, there is no turning back. **Due to the immutability of the blockchain, you should always verify who you are dealing with before proceeding with an action**. Smart contracts are decentralized digital contracts that are executed automatically when predefined terms and circumstances are met.
 
 ## What it does
+
 Presenting our solution Chain Guard which is a **managed security solution** driven by web3 that can be deployed on any blockchain. Chain Guard necessitates a high level of integration with upstream and downstream data sources. To meet this demand, Tiger Graph has developed a series of connectors that enhance your existing analytics capabilities by improving your access to the capability of advanced analytics on connected data. The smart contract integrates with web3, which is the world's quickest and only enterprise-grade graph database. The graph solution stores the graphs of known malicious users. These **users are ranked according to a risk score** that indicates the likelihood of encountering them.
+
+![Workflow](https://user-images.githubusercontent.com/107539208/175255741-fdb437fd-8062-40e6-803b-1a3b75c05f65.jpg)
+
 
 ## How we built it
 
